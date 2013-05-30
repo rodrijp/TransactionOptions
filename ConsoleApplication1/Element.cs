@@ -13,7 +13,7 @@ namespace ConsoleApplication1
     using System.Collections.Generic;
     
     public partial class Element
-    {
+    {  
         public int DbId { get; set; }
         public string Id { get; set; }
         public string InternalName { get; set; }
